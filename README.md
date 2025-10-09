@@ -33,7 +33,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gsssilva}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.deno.dev/{gsssilva}/count.svg" /></p> 
 <br>
 </div>
 
